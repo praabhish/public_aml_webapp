@@ -5,7 +5,7 @@ Created on Sun Jul  2 14:01:58 2023
 @author: Dell
 """
 import streamlit as st
-from opencv-python import cv2
+from opencv import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
